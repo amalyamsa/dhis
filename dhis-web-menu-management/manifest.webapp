@@ -1,0 +1,20 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "menu-management-app",
+  "version": "25.0.8",
+  "description": "Skeleton app for a DHIS2 web app",
+  "developer": {
+    "name": "Mark Polak"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "manifest_generated_at": "Fri Mar 03 2017 10:19:17 GMT+0000 (UTC)"
+}
